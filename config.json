@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsecrypt",
+        "uuid": 19335600,
+        "checksum": "vsmf8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
